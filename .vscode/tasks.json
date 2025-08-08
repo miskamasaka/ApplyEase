@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Load Chrome Extension",
+			"type": "shell",
+			"command": "echo 'To load this Chrome extension:\n1. Open Chrome and go to chrome://extensions/\n2. Enable Developer mode (toggle in top right)\n3. Click \"Load unpacked\" button\n4. Select the root folder of this extension (d:\\OneDrive\\ApplyEase)\n\nThe extension should now be loaded and ready to test!'",
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
